@@ -1,11 +1,5 @@
 ## HELLO ......... 👋👋👋
 
-<!--
-**GODSPE1/GODSPE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on Developing an Ecommerce and Chat Web App
 - 🌱 I’m currently learning Django-python Frame work
 - 👯 I’m looking to collaborate on Good Projects
@@ -14,3 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: godspy18@gmail.com
 - ⚡ Fun fact: Hahahahahaha
 
+<!--
+**GODSPE1/GODSPE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
